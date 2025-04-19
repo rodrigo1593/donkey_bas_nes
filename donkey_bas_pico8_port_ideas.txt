@@ -1,0 +1,60 @@
+--sprite and background colours
+[background]
+dkgreen
+
+[sprite]
+_transparent_
+gray
+red
+brown
+
+
+//car sprite
+
+010
+111
+202
+
+464447
+444444
+450045
+
+//player sprite
+
+212
+010
+212
+
+454445
+004400
+454445
+
+
+[pico-8 donkey.bas default gameplay pallete]
+//0 floor
+_transparent
+dark
+gray
+white
+//1 player
+_transparent_
+dkblue
+red
+
+//2 donkey
+_transparent_
+dkblue
+yellow
+rose
+
+
+
+level pallete
+//background
+lightgreen
+
+//sprite stack 0
+_transparent
+gray
+white
+

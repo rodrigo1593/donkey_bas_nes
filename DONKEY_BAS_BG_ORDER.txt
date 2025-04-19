@@ -1,0 +1,4 @@
+a0=TEXT transparency
+a1=who fucking knows
+a2=bg
+a3=text
